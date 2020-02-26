@@ -28,7 +28,7 @@ twitter_username: dallasj001
 github_username:  dallasjohnson
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
