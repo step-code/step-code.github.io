@@ -28,7 +28,7 @@ twitter_username: dallasj001
 github_username:  dallasjohnson
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
